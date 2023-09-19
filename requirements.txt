@@ -103,6 +103,7 @@ google-pasta==0.2.0
 graphviz==0.20.1
 greenlet @ file:///tmp/build/80754af9/greenlet_1628888132713/work
 grpcio==1.54.2
+gunicorn==21.2.0
 h11==0.14.0
 h2==4.1.0
 h5py @ file:///tmp/abs_4aewd3wzey/croots/recipe/h5py_1659091371897/work
